@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository! 
+As I write this, it is my first day working for Amanda and Titus at UCD. It's pretty exciting to work with them. I will be able to assist them as a staff member at UC Davis. I will have opportunities to be able to learn new skills in Python, Data Science, Training, Bioinformatics and I will be able to learn from all these wonderful post docs who are experts in their fields. I never would have imagined being able to have this type of opportunity. It is self-driven. So, that's exciting. I will have the opportunity to learn about all these data science tools.
